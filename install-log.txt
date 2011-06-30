@@ -1,0 +1,32 @@
+============================================
+Log Created: 2011-06-29T19:07:18-04:00
+============================================
+Symphony Installer Log
+Opened: 2011-06-29T19:07:18-04:00
+Version: 2.2.1
+Domain: http://localhost:8888/buildings
+--------------------------------------------
+2011/06/29 19:09:32 > Notice: Configuration - Could not establish database connection
+2011/06/29 19:09:36 > Notice: Configuration - Could not establish database connection
+
+============================================
+INSTALLATION PROCESS STARTED (2011-06-29T19:09:47-04:00)
+============================================
+2011/06/29 19:09:47 > Notice: MYSQL: Establishing Connection...Done
+2011/06/29 19:09:47 > Notice: MYSQL: Selecting Database 'buildings'...Done
+2011/06/29 19:09:47 > Notice: MYSQL: Importing Table Schema...Done
+2011/06/29 19:09:50 > Notice: MYSQL: Creating Default Author...Done
+2011/06/29 19:09:50 > Notice: WRITING: Creating 'manifest' folder (/manifest)
+2011/06/29 19:09:50 > Notice: WRITING: Creating 'logs' folder (/manifest/logs)
+2011/06/29 19:09:50 > Notice: WRITING: Creating 'cache' folder (/manifest/cache)
+2011/06/29 19:09:50 > Notice: WRITING: Creating 'tmp' folder (/manifest/tmp)
+2011/06/29 19:09:50 > Notice: WRITING: Configuration File
+2011/06/29 19:09:50 > Notice: CONFIGURING: Frontend
+2011/06/29 19:09:50 > Notice: MYSQL: Importing Workspace Data...Done
+2011/06/29 19:09:53 > Notice: Installation Process Completed In 6 sec
+============================================
+INSTALLATION COMPLETED: Execution Time - 6 sec (29.06.11 19:09:53)
+============================================
+
+
+

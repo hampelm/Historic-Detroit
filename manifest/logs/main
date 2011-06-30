@@ -1,0 +1,26 @@
+============================================
+Log Created: 2011-06-29T19:09:53-04:00
+============================================
+Symphony Log
+Version: 2.2.1
+--------------------------------------------
+29 June 2011 7:15 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:16 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:45 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:45 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:45 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:45 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:45 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:50 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:50 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:50 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-2.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+2011/06/29 19:52:22 > Warning: 2 - filemtime() [function.filemtime]: stat failed for /Applications/MAMP/htdocs/buildings/workspace/screen-capture-2.png in file /Applications/MAMP/htdocs/buildings/extensions/jit_image_manipulation/lib/image.php on line 112
+2011/06/29 19:52:22 > Notice: Image class param dump - mode: 2, width: 40, height: 40, position: 5, background: 0, file: screen-capture-2.png, external: 0, raw input: 2/40/40/5/screen-capture-2.png
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 June 2011 7:52 pm > User Notice: The page you requested, <code>/image/2/40/40/5/uploads/screen-capture-1.png/</code>, does not exist. in file /Applications/MAMP/htdocs/buildings/symphony/lib/toolkit/class.frontendpage.php on line 315
