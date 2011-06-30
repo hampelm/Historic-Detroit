@@ -2,7 +2,6 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:import href="page-title.xsl"/>
-<xsl:import href="navigation.xsl"/>
 <xsl:import href="date-time.xsl"/>
 
 <xsl:output method="xml"
@@ -26,36 +25,23 @@
 		<link rel="alternate" type="application/rss+xml" href="{$root}/rss/" />
 	</head>
 	<body>
-		<div id="masthead">
+	  
+		<header id="masthead">
 			<h1>
 				<a href="{$root}"><xsl:value-of select="$website-name"/></a>
 			</h1>
-			<xsl:apply-templates select="data/navigation"/>
-		</div>
-		<div id="package">
-			<p class="date">
-				<xsl:call-template name="format-date">
-					<xsl:with-param name="date" select="$today"/>
-					<xsl:with-param name="format" select="'d'"/>
-				</xsl:call-template>
-				<span>
-					<xsl:call-template name="format-date">
-						<xsl:with-param name="date" select="$today"/>
-						<xsl:with-param name="format" select="'m'"/>
-					</xsl:call-template>
-				</span>
-			</p>
-			<div id="content">
-				<xsl:apply-templates/>
-			</div>
-		</div>
-		<ul id="footer">
-			<li>Orchestrated by <a class="symphony" href="http://symphony-cms.com/">Symphony</a></li>
-			<li>Broadcasted via <a class="rss" href="{$root}/rss/">XML Feed</a></li>
-		</ul>
+		</header>
+		
+		<div id="content">
+		  <xsl:apply-templates/>
+	  </div>
+	  	  
+		<footer>
+		  Footer
+		</footer>
+		
 	</body>
 </html>
-
 </xsl:template>
 
 </xsl:stylesheet>

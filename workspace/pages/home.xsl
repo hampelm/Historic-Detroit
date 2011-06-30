@@ -2,13 +2,10 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:import href="../utilities/master.xsl"/>
-<xsl:import href="../utilities/get-article.xsl"/>
-<xsl:import href="../utilities/get-notes.xsl"/>
-<xsl:import href="../utilities/get-comments.xsl"/>
+<xsl:import href="../utilities/get-building.xsl"/>
 
 <xsl:template match="data">
-	<xsl:apply-templates select="homepage-articles/entry"/>
-	<xsl:apply-templates select="notes"/>
+	<xsl:apply-templates select="all-buildings/entry"/>
 </xsl:template>
 
 </xsl:stylesheet>
